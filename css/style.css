@@ -1,0 +1,122 @@
+body {
+    font-family: 'Anek Malayalam', sans-serif;
+
+}
+
+h1 {
+    font-size: 40px;
+
+}
+
+a {
+    background-image: linear-gradient(to right, orange, rgb(244, 48, 48));
+    text-decoration: none;
+    padding: 15px 30px;
+    color: white;
+    border-radius: 25px;
+
+}
+
+span {
+    color: orange;
+}
+
+#this-section {
+
+    display: flex;
+    margin-left: 5%;
+}
+
+.divetion {
+
+    padding-top: 25px;
+    padding-left: 70px;
+    width: 50%;
+
+
+}
+
+
+#background {
+    background-image: url(../images/background.png);
+    display: flex;
+
+}
+
+.div-1 {
+    width: 50%;
+    padding-left: 150px;
+}
+
+.heah-ing {
+    text-align: center;
+}
+
+.para {
+    text-align: center;
+    padding-left: 410px;
+    padding-right: 410px;
+}
+
+.img {
+    width: 250px;
+}
+
+.div-2 {
+    width: 50%;
+    padding: 70px;
+}
+
+#text-center {
+    display: flex;
+}
+
+#section-3 {}
+
+
+.head {
+    text-align: center;
+}
+
+.head-ing {
+    text-align: center;
+}
+
+.shakil {}
+
+.shakil {}
+
+.shakil-s {}
+
+#footer {
+    background-color: black;
+    text-align: center;
+    padding-top: 100px;
+    color: gray;
+
+}
+
+
+#paragraph {
+    color: rgb(75, 75, 201);
+}
+
+#section-4 {
+    display: flex;
+    box-shadow: 15px 25px 40px;
+    margin-left: 7%;
+    margin-right: 7%;
+    border-radius: 13px;
+}
+
+.mainul-mia {
+    padding-left: 150px;
+}
+
+.raju-mia {
+    padding-left: 200px;
+}
+
+.Sawon-mia {
+    padding-left: 250px;
+}
