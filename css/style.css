@@ -4,16 +4,28 @@ body {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 45px;
+    color: rgb(55, 50, 50);
 
+}
+
+.font-color {
+    color: gray;
+    font-size: 35px;
+}
+
+.font-size {
+    font-size: 15px;
+    padding-right: 100px;
 }
 
 a {
     background-image: linear-gradient(to right, orange, rgb(244, 48, 48));
     text-decoration: none;
-    padding: 15px 30px;
+    padding: 15px 35px;
     color: white;
     border-radius: 25px;
+
 
 }
 
@@ -21,7 +33,7 @@ span {
     color: orange;
 }
 
-#this-section {
+#section-1 {
 
     display: flex;
     margin-left: 5%;
@@ -69,6 +81,23 @@ span {
 
 #text-center {
     display: flex;
+    margin-left: 5%;
+}
+
+.picture-cover {
+    width: 250px;
+    padding-top: 20px;
+    padding-right: 30px;
+}
+
+
+.this-div {
+    padding-left: 10px;
+    box-shadow: 10px 10px 40px rgb(168, 152, 152);
+    height: 380px;
+    width: 280px;
+    border-radius: 20px;
+    margin-left: 5%;
 }
 
 #section-3 {}
@@ -76,6 +105,7 @@ span {
 
 .head {
     text-align: center;
+    padding-bottom: 10px;
 }
 
 .head-ing {
@@ -88,13 +118,6 @@ span {
 
 .shakil-s {}
 
-#footer {
-    background-color: black;
-    text-align: center;
-    padding-top: 100px;
-    color: gray;
-
-}
 
 
 #paragraph {
@@ -103,9 +126,10 @@ span {
 
 #section-4 {
     display: flex;
-    box-shadow: 15px 25px 40px;
+    box-shadow: 15px 25px 40px rgb(184, 175, 175);
     margin-left: 7%;
     margin-right: 7%;
+    margin-top: 70px;
     border-radius: 13px;
 }
 
@@ -119,4 +143,12 @@ span {
 
 .Sawon-mia {
     padding-left: 250px;
+}
+
+#footer {
+    background-color: black;
+    text-align: center;
+    padding-top: 40px;
+    color: gray;
+    margin-top: 80px;
 }
